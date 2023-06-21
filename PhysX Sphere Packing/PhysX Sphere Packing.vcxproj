@@ -140,11 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\stupid_projects\main.cpp" />
-    <ClCompile Include="..\..\..\..\stupid_projects\StaticShapes.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="StaticShapes.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\stupid_projects\StaticShapes.h" />
+    <ClInclude Include="StaticShapes.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

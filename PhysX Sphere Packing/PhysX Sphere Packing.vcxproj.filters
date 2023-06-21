@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\stupid_projects\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\stupid_projects\StaticShapes.cpp">
+    <ClCompile Include="StaticShapes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\stupid_projects\StaticShapes.h">
+    <ClInclude Include="StaticShapes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
